@@ -1,12 +1,17 @@
-# A simple rust template
+# Simple Rust Template 
 
-This is an example of a simple rust template.
+This is an example of a simple Rust template. 
+Using this template will result in better and more conventional code!
 
 ## Features
 
-- Great settings for Cargo Clippy
-- Setup a good Cargo Fmt config
+- Optimized settings for Cargo Clippy
+- A well-configured Cargo Fmt setup
 
 ## How to use
 
-You will need to modify `Cargo.toml` to use this template with your information about your project.
+Follow these steps:
+
+Update the `Cargo.toml` file with your project details, including the name, description, repository link, and author(s). 
+
+Once you have completed the previous steps, you are now prepared to begin coding.
