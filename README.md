@@ -2,6 +2,7 @@
 
 This is an example of a simple rust template.
 
-## How to use
+## Features
 
-Rename name of the project in the `Cargo.toml` file.
+- Great settings for Cargo Clippy
+- Setup a good Cargo Fmt config
