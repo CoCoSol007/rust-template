@@ -1,10 +1,10 @@
 [package]
-name = "${REPO_NAME}"
+name = "REPO_NAME"
 version = "0.1.0"
 edition = "2021"
-description = "${REPO_DESCRIPTION}"
-repository = "${REPO_HTTPS_URL}"
-authors = ["${REPO_OWNER}"]
+description = "REPO_DESCRIPTION"
+repository = "REPO_HTTPS_URL"
+authors = ["REPO_OWNER"]
 
 [lints.rust]
 missing_docs = "warn"
