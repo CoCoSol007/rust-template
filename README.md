@@ -52,4 +52,4 @@ Once you have completed the previous steps, you are now prepared to begin coding
 [issues-shield]: https://img.shields.io/github/issues/cocosol007/rust-template.svg?style=for-the-badge
 [issues-url]: https://github.com/cocosol007/rust-template/issues
 [license-shield]: https://img.shields.io/github/license/cocosol007/rust-template.svg?style=for-the-badge
-[license-url]: https://github.com/cocosol007/rust-template/blob/master/LICENSE
+[license-url]: https://github.com/cocosol007/rust-template/blob/main/LICENSE
