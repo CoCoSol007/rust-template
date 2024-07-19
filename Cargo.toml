@@ -5,7 +5,7 @@ edition = "2021"
 description = "repo_description"
 repository = "repo_url"
 authors = ["author_name"]
-license = "MIT OR Apache-2.0"
+license = "GPLv3"
 
 [lints.rust]
 missing_docs = "warn"
